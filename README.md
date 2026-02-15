@@ -555,14 +555,6 @@ f8b693b3ca9b3ff6b6470a7f9bb43a8b
 
 ---
 
-## Flags
-
-| Flag | Hash |
-|:-----|:-----|
-| **User** | `72f4e9992b8f22e7142019a99cf912ea` |
-| **Root** | `f8b693b3ca9b3ff6b6470a7f9bb43a8b` |
-
----
 
 ## Conclusiones
 

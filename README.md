@@ -641,26 +641,3 @@ for member in tar.getmembers():
             raise ValueError(f"Traversal detected: {member.name}")
 ```
 
-### Referencias
-
-**CVE-2025-47812:**
-- [Exploit-DB #52347](https://www.exploit-db.com/exploits/52347)
-- Wing FTP Server Advisory
-
-**CVE-2025-4138 / CVE-2025-4517:**
-- [GHSA-hgqp-3mmf-7h8f](https://github.com/google/security-research/security/advisories/GHSA-hgqp-3mmf-7h8f)
-- [CPython Issue #135034](https://github.com/python/cpython/issues/135034)
-- [CPython PR #135037](https://github.com/python/cpython/pull/135037)
-- [NVD CVE-2025-4138](https://nvd.nist.gov/vuln/detail/CVE-2025-4138)
-
----
-
-**Machine Owned:** ✅  
-**Difficulty:** Easy  
-**Points:** 20  
-**Season:** 10
-
----
-
-*WriteUp by: Your Name*  
-*Date: February 15, 2026*  

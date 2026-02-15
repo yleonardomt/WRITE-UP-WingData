@@ -548,7 +548,6 @@ root@wingdata:~# id
 uid=0(root) gid=0(root) groups=0(root)
 
 root@wingdata:~# cat /root/root.txt
-f8b693b3ca9b3ff6b6470a7f9bb43a8b
 ```
 
 ✅ **Root Flag obtenida!**

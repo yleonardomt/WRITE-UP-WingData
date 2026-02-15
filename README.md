@@ -267,7 +267,6 @@ ssh wacky@10.129.5.135
 
 ```
 wacky@wingdata:~$ cat user.txt
-72f4e9992b8f22e7142019a99cf912ea
 ```
 
 ✅ **User Flag obtenida!**

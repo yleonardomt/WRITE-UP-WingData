@@ -664,4 +664,3 @@ for member in tar.getmembers():
 
 *WriteUp by: Your Name*  
 *Date: February 15, 2026*  
-*HTB Profile: https://app.hackthebox.com/profile/[YOUR_ID]*
